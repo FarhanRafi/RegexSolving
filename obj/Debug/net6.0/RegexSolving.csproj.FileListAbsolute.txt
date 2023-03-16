@@ -1,0 +1,15 @@
+C:\Users\Farhan\Documents\Training\RegexSolving\bin\Debug\net6.0\RegexSolving.exe
+C:\Users\Farhan\Documents\Training\RegexSolving\bin\Debug\net6.0\RegexSolving.deps.json
+C:\Users\Farhan\Documents\Training\RegexSolving\bin\Debug\net6.0\RegexSolving.runtimeconfig.json
+C:\Users\Farhan\Documents\Training\RegexSolving\bin\Debug\net6.0\RegexSolving.dll
+C:\Users\Farhan\Documents\Training\RegexSolving\bin\Debug\net6.0\RegexSolving.pdb
+C:\Users\Farhan\Documents\Training\RegexSolving\obj\Debug\net6.0\RegexSolving.csproj.AssemblyReference.cache
+C:\Users\Farhan\Documents\Training\RegexSolving\obj\Debug\net6.0\RegexSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farhan\Documents\Training\RegexSolving\obj\Debug\net6.0\RegexSolving.AssemblyInfoInputs.cache
+C:\Users\Farhan\Documents\Training\RegexSolving\obj\Debug\net6.0\RegexSolving.AssemblyInfo.cs
+C:\Users\Farhan\Documents\Training\RegexSolving\obj\Debug\net6.0\RegexSolving.csproj.CoreCompileInputs.cache
+C:\Users\Farhan\Documents\Training\RegexSolving\obj\Debug\net6.0\RegexSolving.dll
+C:\Users\Farhan\Documents\Training\RegexSolving\obj\Debug\net6.0\refint\RegexSolving.dll
+C:\Users\Farhan\Documents\Training\RegexSolving\obj\Debug\net6.0\RegexSolving.pdb
+C:\Users\Farhan\Documents\Training\RegexSolving\obj\Debug\net6.0\RegexSolving.genruntimeconfig.cache
+C:\Users\Farhan\Documents\Training\RegexSolving\obj\Debug\net6.0\ref\RegexSolving.dll
